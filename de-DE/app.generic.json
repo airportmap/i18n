@@ -1,5 +1,8 @@
 {
+  "dasher": "Anpassen",
   "description": "Die kostenlose und quelloffene Flughafendatenbank",
+  "menu": "Menü",
   "name": "Airportmap",
+  "search": "Suchen",
   "title": "Airportmap"
 }

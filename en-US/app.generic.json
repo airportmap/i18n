@@ -1,5 +1,8 @@
 {
+  "dasher": "Dashboard",
   "description": "The free and open source airport database",
+  "menu": "Menu",
   "name": "Airportmap",
+  "search": "Search",
   "title": "Airportmap"
 }

@@ -4,5 +4,9 @@
   "menu": "Menu",
   "name": "Airportmap",
   "search": "Search",
+  "theme": "Theme",
+  "theme.dark": "Dark Mode",
+  "theme.light": "Light Mode",
   "title": "Airportmap"
 }
+

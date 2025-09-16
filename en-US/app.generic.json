@@ -1,6 +1,10 @@
 {
+  "api": "API",
   "dasher": "Dashboard",
   "description": "The free and open source airport database",
+  "editor": "Editor",
+  "embed": "Embedder",
+  "github": "GitHub",
   "locale": "Language",
   "menu": "Menu",
   "name": "Airportmap",
@@ -8,6 +12,7 @@
   "theme": "Theme",
   "theme.dark": "Dark Mode",
   "theme.light": "Light Mode",
-  "title": "Airportmap"
+  "title": "Airportmap",
+  "twitter": "Twitter/X"
 }
 

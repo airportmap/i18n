@@ -1,6 +1,10 @@
 {
+  "api": "",
   "dasher": "",
   "description": "",
+  "editor": "",
+  "embed": "",
+  "github": "",
   "locale": "",
   "menu": "",
   "name": "",
@@ -8,6 +12,7 @@
   "theme": "",
   "theme.dark": "",
   "theme.light": "",
-  "title": ""
+  "title": "",
+  "twitter": ""
 }
 

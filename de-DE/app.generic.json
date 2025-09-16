@@ -1,6 +1,7 @@
 {
   "dasher": "Dashboard",
   "description": "Die kostenlose und quelloffene Flughafendatenbank",
+  "locale": "Sprache",
   "menu": "Menü",
   "name": "Airportmap",
   "search": "Suchen",

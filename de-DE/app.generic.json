@@ -13,6 +13,9 @@
   "theme.dark": "Dunkel",
   "theme.light": "Hell",
   "title": "Airportmap",
-  "twitter": "Twitter/X"
+  "twitter": "Twitter/X",
+  "units": "Einheitensystem",
+  "units.imperial": "Imperial",
+  "units.metric": "Metrisch"
 }
 

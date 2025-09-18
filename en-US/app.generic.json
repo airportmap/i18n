@@ -4,6 +4,7 @@
   "header.action.theme": "Toggle theme",
   "header.action.translate": "Translate",
   "name": "Airportmap",
+  "search.close": "Close",
   "search.placeholder": "Search airports, IATA/ICAO codes …",
   "slogan": "The free and open source airport database",
   "title": "{{title}} — Airportmap"

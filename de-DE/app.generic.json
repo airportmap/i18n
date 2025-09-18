@@ -4,6 +4,7 @@
   "header.action.theme": "Farbschema wechseln",
   "header.action.translate": "Sprache wählen",
   "name": "Airportmap",
+  "search.placeholder": "Suche nach Flughäfen, IATA/ICAO Codes …",
   "slogan": "Die freie Flughafen-Datenbank",
   "title": "{{title}} — Airportmap"
 }

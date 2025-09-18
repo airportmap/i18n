@@ -6,6 +6,9 @@
   "header.action.translate": "Sprache wählen",
   "name": "Airportmap",
   "search.placeholder": "Suche nach Flughäfen, IATA/ICAO Codes …",
+  "sidepanel.links": "Externe Links",
+  "sidepanel.navigation": "Inhalte",
+  "sidepanel.preferences": "Einstellungen",
   "sidepanel.title": "Navigation & Einstellungen",
   "slogan": "Die freie Flughafen-Datenbank",
   "title": "{{title}} — Airportmap"

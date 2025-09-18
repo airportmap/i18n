@@ -1,5 +1,6 @@
 {
-  "description": "Die freie Flughafen-Datenbank",
-  "title": "Airportmap"
+  "name": "Airportmap",
+  "slogan": "Die freie Flughafen-Datenbank",
+  "title": "{{title}} — Airportmap"
 }
 

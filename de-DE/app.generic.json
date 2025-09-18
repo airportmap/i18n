@@ -1,11 +1,12 @@
 {
+  "close": "Schließen",
   "header.action.search": "Suchen",
   "header.action.sidepanel": "Menü öffnen",
   "header.action.theme": "Farbschema wechseln",
   "header.action.translate": "Sprache wählen",
   "name": "Airportmap",
-  "search.close": "Schließen",
   "search.placeholder": "Suche nach Flughäfen, IATA/ICAO Codes …",
+  "sidepanel.title": "Navigation & Einstellungen",
   "slogan": "Die freie Flughafen-Datenbank",
   "title": "{{title}} — Airportmap"
 }

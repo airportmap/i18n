@@ -1,11 +1,12 @@
 {
+  "close": "",
   "header.action.search": "",
   "header.action.sidepanel": "",
   "header.action.theme": "",
   "header.action.translate": "",
   "name": "",
-  "search.close": "",
   "search.placeholder": "",
+  "sidepanel.title": "",
   "slogan": "",
   "title": ""
 }

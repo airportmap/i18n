@@ -1,4 +1,8 @@
 {
+  "header.action.search": "Search",
+  "header.action.sidepanel": "Open sidepanel",
+  "header.action.theme": "Toggle theme",
+  "header.action.translate": "Translate",
   "name": "Airportmap",
   "slogan": "The free and open source airport database",
   "title": "{{title}} — Airportmap"

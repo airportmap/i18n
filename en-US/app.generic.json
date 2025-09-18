@@ -1,5 +1,11 @@
 {
   "close": "Close",
+  "external.apidocs": "API Docs",
+  "external.database": "Database",
+  "external.editor": "Editor",
+  "external.embed": "Embed",
+  "external.github": "GitHub",
+  "external.twitter": "Twitter / X",
   "header.action.search": "Search",
   "header.action.sidepanel": "Open sidepanel",
   "header.action.theme": "Toggle theme",

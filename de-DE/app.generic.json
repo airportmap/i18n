@@ -1,5 +1,11 @@
 {
   "close": "Schließen",
+  "external.apidocs": "API Hilfe",
+  "external.database": "Datenbank",
+  "external.editor": "Editor",
+  "external.embed": "Einbetten",
+  "external.github": "GitHub",
+  "external.twitter": "Twitter / X",
   "header.action.search": "Suchen",
   "header.action.sidepanel": "Menü öffnen",
   "header.action.theme": "Farbschema wechseln",

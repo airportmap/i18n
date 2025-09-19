@@ -1,5 +1,7 @@
 {
   "close": "Close",
+  "credits": "© {{year}} Airportmap. Built with ❤️ for aviation enthusiasts worldwide.",
+  "desc": "Comprehensive open source project for airports, weather data and live traffic. Explore more than 75’000 airports, heliports and air bases worldwide.",
   "external.apidocs": "API Docs",
   "external.database": "Database",
   "external.editor": "Editor",

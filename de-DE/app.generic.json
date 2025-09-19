@@ -1,5 +1,7 @@
 {
   "close": "Schließen",
+  "credits": "© {{year}} Airportmap. Mit ❤️ für Luftfahrtbegeisterte entwickelt.",
+  "desc": "Umfassendes Open-Source-Projekt für Flughäfen, Wetterdaten und Live-Flugverkehr. Entdecke mehr als 75.000 Flughäfen, Heliports und Luftwaffenstützpunkte weltweit.",
   "external.apidocs": "API Hilfe",
   "external.database": "Datenbank",
   "external.editor": "Editor",

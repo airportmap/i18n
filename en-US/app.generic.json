@@ -33,6 +33,7 @@
   "nav.weather": "Weather Stations",
   "notice": "Information on this website is for private use only. Do not use for real life flight.",
   "search.placeholder": "Search airports, IATA/ICAO codes …",
+  "settings.units.default": "Default",
   "settings.units.desc": "Choose your preferred measurement units",
   "settings.units.imperial": "Imperial",
   "settings.units.label": "Units System",
